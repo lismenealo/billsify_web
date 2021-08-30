@@ -1,0 +1,265 @@
+{
+  "status": "ok",
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Mike Fahey",
+      "title": "And Now, Mario Kart Tracks In Flight Simulator - Kotaku",
+      "description": "Nintendo’s cartoon kart tracks add whimsy to Microsoft’s hyperreal flight sim",
+      "url": "https://kotaku.com/and-now-mario-kart-tracks-in-flight-simulator-1847585857",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/07abaa7cc104852682890159957cd7c1.jpg",
+      "publishedAt": "2021-08-30T19:45:00Z",
+      "content": "Weve seen how well Microsofts Flight Simulator handles interpreting real-world objects and landmarks, but what about something a little moreracy? Modder Illogicoma thought it would be neat to try imp… [+1764 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Sisi Jiang",
+      "title": "Six Hours With Garden Story, A Zelda-Like For The Stardew Crowd - Kotaku",
+      "description": "I’m just a video game grape doing my silly little tasks",
+      "url": "https://kotaku.com/six-hours-with-garden-story-a-zelda-like-for-the-stard-1847585139",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/564764d42989700a8df9a4db0abd1ab5.jpg",
+      "publishedAt": "2021-08-30T18:15:00Z",
+      "content": "When I first watched the trailer for Garden Story, I was reminded of one of my favorite Game Boy Advance games from my childhood. I wasnt given much money as a kid, so I would stand at the GameStop d… [+4438 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": null,
+      "title": "Get Sony's fantastic WH-1000XM3 headphones for their lowest price ever - Android Police",
+      "description": "Sony's WH-1000 series of active noise cancellation headphones have impressed audiophiles for a long time, largely taking the crown for mainstream wireless",
+      "url": "https://www.androidpolice.com/2021/08/30/get-sonys-fantastic-wh-1000xm3-headphones-for-their-lowest-price-ever/",
+      "urlToImage": "https://www.androidpolice.com/wp-content/uploads/2019/01/fullsizeoutput_dc.jpg",
+      "publishedAt": "2021-08-30T18:03:00Z",
+      "content": "Sony's WH-1000 series of active noise cancellation headphones have impressed audiophiles for a long time, largely taking the crown for mainstream wireless cans away from Bose. But they don't come che… [+1115 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jonathan M. Gitlin",
+      "title": "The 2021 Jeep Wrangler 4xe marries WWII handling with 50 mpg efficiency - Ars Technica",
+      "description": "It's a handful on the road, but it's also the only plug-in off-roader for now.",
+      "url": "https://arstechnica.com/cars/2021/08/the-2021-jeep-wrangler-4xe-marries-wwii-handling-with-50-mpg-efficiency/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/JP021_544WR1t6ob32h944hbkje2hud3ic6ss-760x380.jpg",
+      "publishedAt": "2021-08-30T18:00:59Z",
+      "content": "111 with 57 posters participating, including story author\r\n<ul><li>\r\n Its looks might still call back to the battlefields of World War II, but there's nothing old-fashioned about the Jeep Wrangler 4x… [+6605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Scott Stump",
+      "title": "Bravo's Captain Sandy Yawn marks 33 years of sobriety - TODAY",
+      "description": "Captain Sandy Yawn of Bravo's \"Below Deck Mediterranean\" celebrated \"33 years clean\" with a grateful post about her life now being beyond her \"wildest dreams.\"",
+      "url": "https://www.today.com/popculture/bravo-s-captain-sandy-yawn-marks-33-years-sobriety-t229386",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/newscms/2021_35/1767243/captain-sandy-mc-main-210830.jpg",
+      "publishedAt": "2021-08-30T17:52:51Z",
+      "content": "Becoming the captain of a mega yacht and star of a reality series on Bravo seemed like an impossible dream the way that Captain Sandy Yawn was struggling with addiction more than three decades ago.\r\n… [+1651 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Owen S. Good",
+      "title": "World of Warcraft update brings fan-requested changes to Shadowlands - Polygon",
+      "description": "World of Warcraft’s next content patch — 9.1.5 — is live on the public test realm and will be coming to the full game shortly, developers say. It follows the 9.1 Shadowlands update by a little more than a month and delivers several community-requested changes…",
+      "url": "https://www.polygon.com/22648704/world-of-warcraft-9-1-5-content-update-shadowlands-conduit-energy-covenants",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/bw7DcrP_CrOO8GUaxsqRrrDsS2U=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22316163/WoW_Shadowlands_Chains_of_Domination_BlizzConline_Korthia_3840x2160.jpg",
+      "publishedAt": "2021-08-30T17:44:15Z",
+      "content": "World of Warcrafts Shadowlands update 9.1.5 will roll out in the games public test realm this week, bringing with it a raft of player-requested and suggested changes, as well as new efforts to curb t… [+2843 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Michael McWhertor",
+      "title": "First look at Dead Space remake coming in Twitch livestream - Polygon",
+      "description": "Dead Space remake developer Motive Studio promises an early look at development in a new livestream on Twitch on Tuesday, Aug. 31. It’s the first look at EA and Motive’s new Dead Space since EA Play in July.",
+      "url": "https://www.polygon.com/22648684/dead-space-remake-first-look-motive-studio-ea",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/seBN4spqmAe_0LmzzT3pzTIu5h8=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10217723/dead_space.jpg",
+      "publishedAt": "2021-08-30T17:38:53Z",
+      "content": "Electronic Arts and developer Motive Studio will give Dead Space fans a very early look at the development of the sci-fi horror games remake on Tuesday. That sneak peek will be streamed on Motives Tw… [+1527 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Samantha Subin",
+      "title": "Apple buys classical music streaming service Primephonic - CNBC",
+      "description": "The acquisition will bring more content to Apple Music's catalog of more than 75 million songs",
+      "url": "https://www.cnbc.com/2021/08/30/apple-buys-classical-music-streaming-service-primephonic.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106893387-1630347591210-cook1.jpg?v=1630347612",
+      "publishedAt": "2021-08-30T17:23:41Z",
+      "content": "Apple has acquired classical music streaming service Primephonic, the company announced in a release Monday. Terms of the deal were not disclosed.\r\nThe acquisition adds to Apple Music's growing libra… [+1712 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Super Monkey Ball Banana Mania - Party With the Gang - Nintendo Switch - Nintendo",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Z2I1dHJLTjdnVnPSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-08-30T17:00:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Al Root",
+      "title": "Apple's iPhone 13 Could Offer Satellite Service. Space Stocks Are Jumping. - Barron's",
+      "description": "The news outlet MacRumors reported that the iPhone 13 may include a Qualcomm chip that supports low-earth-orbit satellite communications.",
+      "url": "https://www.barrons.com/articles/apple-iphone-13-satellite-phone-51630342019",
+      "urlToImage": "https://images.barrons.com/im-393164/social",
+      "publishedAt": "2021-08-30T16:50:00Z",
+      "content": "Space and satellite stocks are jumping as speculation grows that the next version of the iPhone will be equipped to handle space-based mobile communications, making calls possible even beyond the rea… [+2837 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Zoe Schiffer",
+      "title": "Apple cares about privacy, unless you work at Apple - The Verge",
+      "description": "Apple gives itself extensive rights to search through employee devices used for work. Now, some Apple employees are pushing back, saying the company hasn’t done enough to safeguard their personal data.",
+      "url": "https://www.theverge.com/22648265/apple-employee-privacy-icloud-id",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-B2-6XmjaT-MNyHlWJ_SNfPHZrw=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22814584/acastro_210828_4732_0001.jpg",
+      "publishedAt": "2021-08-30T16:33:36Z",
+      "content": "Jacob Preston was sitting down with his manager during his first week at Apple when he was told, with little fanfare, that he needed to link his personal Apple ID and work account. \r\nThe request stru… [+12693 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pure Xbox"
+      },
+      "author": "Pure Xbox",
+      "title": "Microsoft Rewards Is Giving You A Chance To Win Xbox Game Pass Ultimate For Life - Pure Xbox",
+      "description": "Including an engraved lifetime membership card",
+      "url": "https://www.purexbox.com/news/2021/08/microsoft_rewards_is_giving_you_a_chance_to_win_xbox_game_pass_ultimate_for_life",
+      "urlToImage": "https://images.purexbox.com/db383ac4537bd/1280x720.jpg",
+      "publishedAt": "2021-08-30T16:30:00Z",
+      "content": "Microsoft Rewards is the gift that keeps on giving, and if you're willing to risk throwing some of your hard-earned points away, you can be in with a chance of winning an Xbox Game Pass Ultimate subs… [+1497 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ari Notis",
+      "title": "Naughty Dog’s Bosses Still Don’t Get It - Kotaku",
+      "description": "TLOU2 studio co-president Evan Wells hasn’t “put a lot of thought” into the idea of unionization",
+      "url": "https://kotaku.com/naughty-dog-s-bosses-still-don-t-get-it-1847583766",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a8a7b618869a9ea2a31c38586b13d1f1.jpg",
+      "publishedAt": "2021-08-30T16:30:00Z",
+      "content": "Development studio Naughty Dog has a reputation for producing top-flight games. It also has a reputation for working its employees to the bone. Naughty Dog co-presidents Evan Wells and Neil Druckmann… [+3954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chrome Unboxed"
+      },
+      "author": "https://chromeunboxed.com/author/robbypayne/",
+      "title": "ASUS Chromebook Detachable CM3 unboxing and initial impressions [VIDEO] - Chrome Unboxed",
+      "description": "It's been a bit of a wait, but we finally have ASUS' new tablet here in the office. Since it's been around for quite some time, there's little surprise, here. This is a 10.5-inch tablet/detachable Chromebook that offers a similar array of hardware that we've …",
+      "url": "https://chromeunboxed.com/asus-cm3-chromebook-tablet-detachable-unboxing-and-initial-impressions/",
+      "urlToImage": "https://chromeunboxed.com/wp-content/uploads/2021/08/ASUSChromebookCM3DetachableTablet-cr.jpeg",
+      "publishedAt": "2021-08-30T16:22:42Z",
+      "content": "Its been a bit of a wait, but we finally have ASUS new tablet here in the office. Since its been around for quite some time, theres little surprise, here. This is a 10.5-inch tablet/detachable Chrome… [+3317 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ingrid Lunden",
+      "title": "Eight Sleep raises $86M as its smart mattress and ‘sleep fitness’ technology approaches $500M valuation - TechCrunch",
+      "description": "The venture world is — quite literally — waking up to the potential of applying artificial intelligence to a wider variety of real-world, consumer-driven problems, and today comes the latest development on that front: Eight Sleep, which makes “smart” mattress…",
+      "url": "http://techcrunch.com/2021/08/30/eight-sleep-raises-86m-as-its-smart-mattress-and-sleep-fitness-technology-approach-500m-valuation/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-08-at-12.41.45-PM.png?w=694",
+      "publishedAt": "2021-08-30T16:02:17Z",
+      "content": "The venture world is — quite literally — waking up to the potential of applying artificial intelligence to a wider variety of real-world, consumer-driven problems, and today comes the latest developm… [+5794 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Cursed to Golf - Official Introduction Trailer - IGN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ald3djdIUmlmdWfSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-08-30T16:00:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Mortal Kombat Legends: Battle of the Realms - Official Liu Kang vs. Shang Tsung Exclusive Clip - IGN",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QTRmTXowZmFOeUXSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-08-30T16:00:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Mike Fahey",
+      "title": "No Man's Sky Modder Won't Stop Adding Disturbi/**/ng Sean Murray Heads 'Till Next Expansion - Kotaku",
+      "description": "The Sean Murraying of No Man’s Sky shall continue until the next expansion is released",
+      "url": "https://kotaku.com/no-mans-sky-modder-wont-stop-adding-disturbing-sean-mur-1847583624",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3bbc6562acf29efab449dc0353317aca.jpg",
+      "publishedAt": "2021-08-30T15:45:00Z",
+      "content": "Bored while waiting for No Mans Skys massive 17th free expansion to come out, modder and video makerWinder Sun has vowed to mod Hello Games boss Sean Murrays likeness into the game in increasingly cr… [+2375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": null,
+      "title": "Google is looking into Pixel 5a video overheating issues and touchscreen problems - 9to5Google",
+      "description": "Google is currently investigating issues with the new Pixel 5a with 5G overheating while using its camera, and touchscreen problems too.",
+      "url": "https://9to5google.com/2021/08/30/pixel-5a-overheating-issues-google/",
+      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/08/pixel_5a_camera_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2021-08-30T15:42:00Z",
+      "content": "The Pixel 5a with 5G launched just this month with stellar battery life and a solid price point, but it does seem to have one flaw. As many have pointed out, heat seems to cause trouble for the Pixel… [+1211 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Rebekah Valentine",
+      "title": "NetEase Reportedly in 'Final Negotiations' to Poach Yakuza Creator Toshihiro Nagoshi From Sega - IGN - IGN",
+      "description": "Chinese developer and publisher NetEase is reportedly in \"final negotiations\" with Yakuza creator Toshihiro Nagoshi to hire him away from Sega, where he's been since 1989.",
+      "url": "https://www.ign.com/articles/netease-reportedly-final-negotiations-poach-yakuza-creator-toshihiro-nagoshi",
+      "urlToImage": "https://assets-prd.ignimgs.com/2021/08/30/kiryu-1630336666250.jpg?width=1280",
+      "publishedAt": "2021-08-30T15:33:45Z",
+      "content": "Chinese developer and publisher NetEase is reportedly in \"final negotiations\" with Yakuza creator Toshihiro Nagoshi to hire him away from Sega, where he's been since 1989.\r\nAccording to a report from… [+1938 chars]"
+    }
+  ]
+}
