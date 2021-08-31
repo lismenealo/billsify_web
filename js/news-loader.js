@@ -19,7 +19,7 @@ function createNewsItem(image, title, author, description, url, date, source) {
         "\t\t\t\t\t\t\t\t<article class=\"box highlight\">\n" +
         "\t\t\t\t\t\t\t\t\t<header>\n" +
         "\t\t\t\t\t\t\t\t\t\t<h3 class=\"title\">\n" +
-        "\t\t\t\t\t\t\t\t\t\t\t<span class=\"date\">" + date + " </span>\n" +
+        "\t\t\t\t\t\t\t\t\t\t\t<span class=\"date\">" + date + " - </span>\n" +
         "\t\t\t\t\t\t\t\t\t\t\t<a href=\"" + url + "\">\n" +
         "\t\t\t\t\t\t\t\t\t\t\t\t" + title + "\n" +
         "\t\t\t\t\t\t\t\t\t\t\t</a>\n" +
@@ -28,7 +28,7 @@ function createNewsItem(image, title, author, description, url, date, source) {
         "\t\t\t\t\t\t\t\t\t<a href=\"" + url + "\" class=\"image left\">\n" +
         "\t\t\t\t\t\t\t\t\t\t<img src=\"" + image + "\" alt=\"Image - " + title + "\" />\n" +
         "\t\t\t\t\t\t\t\t\t</a>\n" +
-        "\t\t\t\t\t\t\t\t\t<p>\n" +
+        "\t\t\t\t\t\t\t\t\t<p class='description'>\n" +
         "\t\t\t\t\t\t\t\t\t\t" + description + "\n" +
         "\t\t\t\t\t\t\t\t\t</p>\n" +
         "\t\t\t\t\t\t\t\t\t<footer>\n" +
@@ -39,15 +39,21 @@ function createNewsItem(image, title, author, description, url, date, source) {
 
 }
 
-function createNewsFeed(news) {
+function createNewsFeed(articles) {
     let newsFeedHTML = "<ul class=\"divided\">\n";
-    
-    newsFeedHTML += createNewsItem();
+
+    articles.forEach((x, i) => {
+        newsFeedHTML += createNewsItem(x.urlToImage, x.title, x.author, x.description, x.url, x.publishedAt.substring(0, ), x.source.name);
+    });
+
     newsFeedHTML += "\t\t\t\t\t\t</ul>"
+
+    return newsFeedHTML;
 }
 
 loadJSON(function(response) {
     // Parse JSON string into object
     let actual_JSON = JSON.parse(response);
-    console.log(actual_JSON);
+    document.getElementById("first_feed").innerHTML = createNewsFeed(actual_JSON['articles'].slice(0, 3));
+    document.getElementById("second_feed").innerHTML = createNewsFeed(actual_JSON['articles'].slice(4, 7));
 });
