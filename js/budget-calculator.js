@@ -7,6 +7,7 @@ function calculate_budget() {
     let apple_pay = document.getElementById("apple_pay").checked;
     let cloud_storage = document.getElementById("cloud_storage").checked;
 
+    /* Gets values of the variables to calculate the budget and recalculate the formula and update the value of the input element */
     document.getElementById("budget_pre_calculation").value = (plan_duration*plan_mode) +
         (real_time ? 10 : 0) +
         (google_pay ? 20 : 0) +

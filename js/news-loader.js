@@ -1,3 +1,4 @@
+
 // News feed loader
 function loadJSON(callback) {
 
@@ -12,6 +13,7 @@ function loadJSON(callback) {
     };
     xobj.send(null);
 }
+
 function createNewsItem(image, title, author, description, url, date, source) {
 
     return "\t\t\t\t\t\t\t<li>\n" +
@@ -36,7 +38,6 @@ function createNewsItem(image, title, author, description, url, date, source) {
         "\t\t\t\t\t\t\t\t\t</footer>\n" +
         "\t\t\t\t\t\t\t\t</article>\n" +
         "\t\t\t\t\t\t\t</li>\n";
-
 }
 
 function createNewsFeed(articles) {
