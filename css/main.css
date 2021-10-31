@@ -1822,6 +1822,12 @@ button:disabled,
 	background: var(--body-bg);
 }
 
+.validation {
+	color: #db0000;
+	text-transform: lowercase;
+	font-size: 14px;
+}
+
 /* Box */
 
 .no-sidebar .box.post > header {

@@ -54,13 +54,17 @@
 						<form method="post" action="#">
 							<div class="row gtr-50">
 								<div class="col-12">
-									<input name="name" placeholder="Name" type="text" required/>
+									<input name="name" placeholder="Name" type="text" pattern="[A-Za-z|\s]{0,15}" required/>
+								</div>
+								<div class="col-12">
+									<input name="lastname" placeholder="Last Name" type="text" pattern="[A-Za-z|\s]{0,40}" required/>
 								</div>
 								<div class="col-6 col-12-small">
-									<input name="email" placeholder="Email" type="email" required/>
+									<input name="email" placeholder="Email" type="email" id="email" required onkeyup="validateEmail()"/>
+									<span class="validation" id="result" style="display: none">Email Format Not Valid</span>
 								</div>
 								<div class="col-6 col-12-small">
-									<input name="phone" placeholder="Phone number" type="text" required/>
+									<input name="phone" placeholder="Phone number" type="text" pattern="[0-9]{9}" required/>
 								</div>
 
 								<div class="col-6">
@@ -77,7 +81,7 @@
 									<label>
 										Premium plan duration
 									</label>
-									<input id="plan_duration" name="plan_duration" placeholder="Months" type="number" onchange="calculate_budget()" required/>
+									<input id="plan_duration" name="plan_duration" placeholder="Months" type="number" min="0" max="12"  onchange="calculate_budget()"/>
 								</div>
 								<div class="col-12">
 									<label>
@@ -101,7 +105,7 @@
 									<label>
 										Budget in euros, this is a pre-calculation, the final details will be send over email
 									</label>
-									<input id="budget_pre_calculation" name="budget_pre_calculation" type="number" min="1" step="any" value="0" disabled/>
+									<input id="budget_pre_calculation" name="budget_pre_calculation" type="number" step="any" value="0" disabled/>
 								</div>
 								<div class="col-12">
 									<label>
